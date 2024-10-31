@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Random Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-05 15:49+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yakup Gövler <yakupgovler@hotmail.com>\n"
+"Language-Team: yakuphan <yakupgov@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recent-commented-posts.php:15
+msgid "Displays most recently commented commented posts. You can customize it easily."
+msgstr ""
+
+#: recent-commented-posts.php:17
+#: recent-commented-posts.php:23
+#: recent-commented-posts.php:64
+msgid "Recent Commented Posts"
+msgstr ""
+
+#: recent-commented-posts.php:78
+msgid "Title:"
+msgstr ""
+
+#: recent-commented-posts.php:83
+msgid "Number of posts to show:"
+msgstr ""
+
+#: recent-commented-posts.php:85
+msgid "at most 20"
+msgstr ""
+
+#: recent-commented-posts.php:89
+msgid "Excerpt length (letters):"
+msgstr ""
+
+#: recent-commented-posts.php:91
+msgid "0 - Don't show excerpt"
+msgstr ""
+
+#: recent-commented-posts.php:95
+msgid "Thumbnail Custom Field Name:"
+msgstr ""
+
+#: recent-commented-posts.php:101
+msgid "Get first image of post"
+msgstr ""
+
+#: recent-commented-posts.php:105
+msgid "Get first attached image of post"
+msgstr ""
+
+#: recent-commented-posts.php:108
+msgid "Default image:"
+msgstr ""
+
+#: recent-commented-posts.php:110
+msgid "if there is no thumbnail, use this"
+msgstr ""
+
+#: recent-commented-posts.php:114
+msgid "Thumbnail image dimensions:"
+msgstr ""
+
+#: recent-commented-posts.php:115
+msgid "Width:"
+msgstr ""
+
+#: recent-commented-posts.php:116
+msgid "Height:"
+msgstr ""
+
